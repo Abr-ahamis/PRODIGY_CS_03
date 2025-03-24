@@ -16,7 +16,10 @@ Additional Features:
   • "Show Password" toggle to reveal/hide the password
   • "Generate Secure Password" button that creates a strong random password
   • "Copy Password" button to copy the password to the clipboard
-
+```bash
+git clone https://github.com/Abr-ahamis/PRODIGY_CS_03.git
+cd PRODIGY_CS_03
+```
 Usage:
     python password_checker.py
 """
